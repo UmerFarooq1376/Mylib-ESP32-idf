@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "I:\\Cowlar"
+		},
+		{
+			"name": "Task",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sstream": "cpp"
+		}
+	}
+}
